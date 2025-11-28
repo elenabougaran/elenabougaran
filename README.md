@@ -16,9 +16,4 @@ Practices: Clean Code, modularization, unit testing
 
 | MyBikeMate | The app allows users to track all their maintenance tasks and receive reminders when an intervention is due. | SwiftUI, MVVM, CoreData, Unit Tests, Push notifications |
 
-**📫 Contact**
-
-💼 LinkedIn: [linkedin.com/in/elenadev](https://www.linkedin.com/in/héléna-
-bougaran-14a727159/)
-
 **💡 Looking for SwiftUI / iOS missions or roles (remote or freelance).**
