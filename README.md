@@ -1,16 +1,24 @@
-## Hi there 👋
+**👩‍💻 Elena – iOS Developer (SwiftUI)**
 
-<!--
-**elenabougaran/elenabougaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about the Apple ecosystem, I develop iOS applications using Swift, SwiftUI, and the MVVM pattern.
 
-Here are some ideas to get you started:
+**🚀 Key Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Tools: Swift, SwiftUI, Xcode, Git, Firebase
+Architecture: MVVM, separation of concerns, protocol-oriented design
+API & Data: Network requests, JSON, Core Data
+UI/UX: Accessibility, usability
+Practices: Clean Code, modularization, unit testing
+
+**📱 Projects**
+
+**| Project | Description | Key Skills |**
+
+| MyBikeMate | The app allows users to track all their maintenance tasks and receive reminders when an intervention is due. | SwiftUI, MVVM, CoreData, Unit Tests, Push notifications |
+
+**📫 Contact**
+
+💼 LinkedIn: [linkedin.com/in/elenadev](https://www.linkedin.com/in/héléna-
+bougaran-14a727159/)
+
+**💡 Looking for SwiftUI / iOS missions or roles (remote or freelance).**
